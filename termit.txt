@@ -1,0 +1,6 @@
+username
+userid
+userpw
+usergender
+userhcp
+usertype
