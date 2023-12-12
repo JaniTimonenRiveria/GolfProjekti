@@ -1,0 +1,1 @@
+xcopy /s /y "C:\Users\23762\OneDrive - Pohjois-Karjalan koulutuskuntayhtyma\projekti" "C:\xampp\htdocs\projekti" 
